@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sangeetha+R;Aspiring+AI%2FML+Engineer+%26+Data+Scientist;Machine+Learning+%7C+Deep+Learning+%7C+Python;Building+End-to-End+ML+%26+DL+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5C542&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sangeetha+R;Aspiring+AI%2FML+Engineer+%26+Data+Scientist;Machine+Learning+%7C+Deep+Learning+%7C+Python;Built+End-to-End+ML+%26+Deep+Learning+Projects" alt="Typing SVG" />
 
 </div>
 
@@ -25,20 +25,22 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,pandas,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-0468FF?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep%20Learning-06B6D4?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </p>
 
 ---
