@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sangeetha+R;Aspiring+Data+Scientist+%26+Data+Analyst;Machine+Learning+%7C+Deep+Learning+%7C+Python;Building+End-to-End+ML+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sangeetha+R;Aspiring+AI%2FML+Engineer+%26+Data+Scientist;Machine+Learning+%7C+Deep+Learning+%7C+Python;Building+End-to-End+ML+%26+DL+Projects" alt="Typing SVG" />
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ### 🚀 About Me
 
-- 🎯 Aspiring **Data Scientist & Data Analyst**
-- 🤖 Focused on **AI & Machine Learning**
-- 🐍 Comfortable working with **Python**, from data wrangling to model deployment
-- 🧠 Exploring **Deep Learning** — CNNs, transfer learning, and computer vision
-- 🛠️ Currently building **end-to-end ML projects**, from data to insights
-- 📊 Also working with **Power BI** for data analytics & visualization
-- 💬 Ask me about: Machine Learning, Deep Learning, Computer Vision, Data Analysis
+- 🤖 Aspiring **AI/ML Engineer & Data Scientist**
+- 🧠 Built **end-to-end Machine Learning & Deep Learning projects** across classification, predictive modeling, and computer vision using **Scikit-learn, XGBoost, TensorFlow, and Keras**
+- 🐍 Strong hands-on experience with **Python, NumPy, Pandas, and SQL/MySQL** for data preparation, analysis, and modeling
+- 📈 Experienced in **feature engineering, model evaluation, and hyperparameter tuning**
+- 🖼️ Skilled in **deep learning architectures like CNNs and transfer learning** for image classification tasks
+- 📊 Proficient in **Power BI, Power Query, and DAX** for data analytics and business intelligence
+- 💬 Ask me about: **Machine Learning, Deep Learning, Computer Vision, Python, SQL, and Power BI**
 
 ---
 
