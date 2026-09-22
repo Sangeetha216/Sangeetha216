@@ -1,296 +1,136 @@
 <div align="center">
 
-# Hi, I'm Sangeetha R 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sangeetha+R;Aspiring+Data+Scientist+%26+Data+Analyst;Machine+Learning+%7C+Deep+Learning+%7C+Python;Building+End-to-End+ML+Projects" alt="Typing SVG" />
 
-### Aspiring Data Scientist | Machine Learning | AI | Power BI
+</div>
 
-<p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🎯 Aspiring **Data Scientist & Data Analyst**
+- 🤖 Focused on **AI & Machine Learning**
+- 🐍 Comfortable working with **Python**, from data wrangling to model deployment
+- 🧠 Exploring **Deep Learning** — CNNs, transfer learning, and computer vision
+- 🛠️ Currently building **end-to-end ML projects**, from data to insights
+- 📊 Also working with **Power BI** for data analytics & visualization
+- 💬 Ask me about: Machine Learning, Deep Learning, Computer Vision, Data Analysis
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,pandas,git,github,vscode,jupyter" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-0468FF?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-555555?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-🔹 I am an aspiring **Data Scientist** with a strong foundation in **Python, SQL, Statistics, Power BI, Machine Learning, and Deep Learning**.
-
-🔹 I enjoy transforming data into meaningful insights and building **machine learning and AI solutions** to solve real-world problems.
-
-🔹 My learning journey focuses on developing practical, end-to-end skills across **data analysis, predictive modeling, computer vision, deep learning, and business intelligence** through hands-on projects.
-
-🔹 I believe in **learning by building**, understanding the reasoning behind each technique, and communicating results clearly.
----
-
-## 🛠️ What I Work With
+### 🌟 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🐍 Programming & Data Analysis
-
-**Python**  
-NumPy • Pandas • Matplotlib • Seaborn
-
-**SQL**  
-MySQL • Data Querying • Data Profiling
-
-**Statistics**  
-Descriptive Statistics • Hypothesis Testing • Correlation • ANOVA
+**🖼️ [Image Classification](https://github.com/Sangeetha216/image-classification)**
+Six-category image classification using CNNs and transfer learning.
+`Python` `TensorFlow` `Keras` `CNN` `Computer Vision`
 
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### 📊 Business Intelligence
-
-**Power BI**
-
-Power Query • DAX • Data Modeling • KPI Development • Interactive Dashboards
-
-**Data Visualization**
-
-Exploratory Data Analysis • Dashboard Design • Business Insights
+**✍️ [Handwritten Digit Image Processing](https://github.com/Sangeetha216/handwritten-digit-image-processing)**
+Digit recognition using ML, ANN, and CNN on the MNIST dataset.
+`Python` `TensorFlow` `Deep Learning`
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 Machine Learning
-
-Scikit-learn • Logistic Regression • Decision Trees • Random Forest • KNN • SVM • Naive Bayes • XGBoost
-
-Feature Engineering • Feature Selection • Hyperparameter Tuning • Model Evaluation • Imbalanced Data Handling
+**🧑‍🤝‍🧑 [Gender Detection](https://github.com/Sangeetha216/gender-detection)**
+Gender classification using CNN and transfer learning.
+`Python` `Keras` `Computer Vision`
 
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
+**📱 [Cellphone Price Range Prediction](https://github.com/Sangeetha216/cellphone-price-range-prediction)**
+Predicting mobile price ranges from device specifications.
+`Python` `scikit-learn` `Data Visualization`
 
-### 🧠 Deep Learning & AI
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-TensorFlow • Keras • ANN • CNN • Computer Vision • Image Classification
+**🩸 [Blood Donation Prediction](https://github.com/Sangeetha216/blood-donation-prediction)**
+Predicting blood donation likelihood from donor history.
+`Python` `scikit-learn` `Classification`
 
-Image Preprocessing • Model Training • Model Evaluation
+</td>
+<td width="50%">
+
+**❤️ [Heart Disease Prediction](https://github.com/Sangeetha216/heart-disease-prediction)**
+Heart disease classification with model comparison & evaluation.
+`Python` `XGBoost` `Classification`
 
 </td>
 </tr>
 </table>
 
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🫀 Heart Disease Prediction
-
-A machine learning classification project that predicts the likelihood of heart disease using patient-related features.
-
-**Focus:**  
-Predictive Modeling • EDA • Feature Engineering • Classification • Model Evaluation
-
-**Technologies:**  
-Python • Pandas • Scikit-learn • XGBoost
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💳 Bank GoodCredit
-
-A credit risk modeling project focused on identifying customers with a higher probability of bad credit history.
-
-**Focus:**  
-SQL • Data Understanding • Payment History Features • Feature Engineering • Credit Risk Modeling
-
-**Technologies:**  
-Python • SQL • Pandas • Machine Learning
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🩸 Blood Donation Prediction
-
-A classification project designed to predict whether a blood donor is likely to donate blood in a future campaign.
-
-**Focus:**  
-EDA • Imbalanced Data • Classification • Model Comparison • Model Evaluation
-
-**Technologies:**  
-Python • Pandas • Scikit-learn
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📱 Cellphone Price Range Prediction
-
-A multiclass classification project that predicts mobile phone price ranges based on technical specifications.
-
-**Focus:**  
-EDA • Feature Analysis • Classification • Model Comparison • Hyperparameter Tuning
-
-**Technologies:**  
-Python • Pandas • Random Forest • XGBoost
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 👩 Gender Detection
-
-A computer vision project focused on image-based gender classification using deep learning.
-
-**Focus:**  
-Image Preprocessing • ANN • CNN • Image Classification
-
-**Technologies:**  
-Python • TensorFlow • Keras • Computer Vision
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤟 Indian Sign Language Recognition
-
-A deep learning project focused on recognizing Indian Sign Language hand gestures from images.
-
-**Focus:**  
-Image Processing • CNN • Multiclass Classification • Deep Learning
-
-**Technologies:**  
-Python • TensorFlow • Keras • CNN
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ Image Classification
-
-A deep learning project involving image preprocessing and multiclass image classification.
-
-**Focus:**  
-Image Preprocessing • Neural Networks • CNN • Model Evaluation
-
-**Technologies:**  
-Python • TensorFlow • Keras • Computer Vision
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌡️ Air Temperature Forecasting
-
-A time-series forecasting project focused on predicting future air temperature using historical observations.
-
-**Focus:**  
-Time Series Analysis • Data Preprocessing • Forecasting • Model Evaluation
-
-**Technologies:**  
-Python • Pandas • Time Series
-
-</td>
-</tr>
-</table>
+<p align="center">
+  🗂️ <b>Explore my full portfolio →</b> <a href="https://github.com/Sangeetha216/Sangeetha216">Sangeetha216</a> (Data Science, ML, Deep Learning & Power BI showcase)
+</p>
 
 ---
 
-# 📊 Power BI Portfolio
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sangeetha216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangeetha216&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha216&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangeetha216&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sangeetha216&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</p>
 
 <div align="center">
-
-### Turning Data into Interactive Business Insights
-
-</div>
-
-I also work with **Power BI** to transform raw datasets into interactive dashboards that help communicate trends, KPIs, patterns, and business insights.
-
-My Power BI projects will showcase:
-
-**Power Query → Data Cleaning → Data Modeling → DAX → KPI Development → Interactive Visualizations → Business Insights**
-
-📌 *Power BI dashboards will be added to my portfolio as projects are completed.*
-
----
-
-# 🔬 My Data Science Workflow
-
-<div align="center">
-
-**Data Understanding**  
-↓  
-**Data Cleaning**  
-↓  
-**Exploratory Data Analysis**  
-↓  
-**Feature Engineering**  
-↓  
-**Train / Test Split**  
-↓  
-**Model Building**  
-↓  
-**Model Evaluation**  
-↓  
-**Hyperparameter Tuning**  
-↓  
-**Model Selection**  
-↓  
-**Insights & Recommendations**
-
-</div>
-
-I focus on building projects with a structured and evidence-based approach rather than simply training a model. My goal is to understand the data, justify technical decisions, evaluate models using appropriate metrics, and communicate the results clearly.
-
----
-
-# 📚 Currently Building
-
-<div align="center">
-
-### 🐍 Python
-### 📊 Data Analytics & Power BI
-### 🤖 Machine Learning
-### 🧠 Deep Learning
-### 👁️ Computer Vision
-### 📈 Predictive Modeling
-
-</div>
-
----
-
-# 🎯 Career Goal
-
-I am currently seeking opportunities to begin my professional career in:
-
-**Data Science • Data Analytics • Machine Learning • AI / Deep Learning**
-
-I am looking forward to applying my technical knowledge to real-world problems, continuously learning new technologies, and contributing to data-driven teams.
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-If you're interested in **Data Science, Machine Learning, AI, Power BI, or Analytics**, I'd be happy to connect and learn from the community.
-
-<br>
-
-⭐ Thanks for visiting my GitHub profile!
-
+  <i>⭐️ From <a href="https://github.com/Sangeetha216">Sangeetha216</a> — thanks for stopping by!</i>
 </div>
